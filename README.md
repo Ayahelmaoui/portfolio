@@ -4,7 +4,6 @@ trying to improve my writing skills └(￣-￣└) i followed a guide to make a
 ## Table of contents 
 
 - [Screenshots](#Screenshots)
-- [Table of contents](#table-of-contents)
 - [Development](#development)
 - [Contributing](#Contributing)
 - [Author](#Author)
