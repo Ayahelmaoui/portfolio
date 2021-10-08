@@ -42,8 +42,8 @@ Contributions, issues and feature requests are welcome so feel free to modify an
 
 # Footer
 [(Back to top)](#table-of-contents)
-What i really love about this RDM example is the table of contents :sparkles: 
-Leave a ⭐️ in GitHub, give a clap in Medium and share this README if you found it cool.
-<!-- Add the footer here -->
+What i really love about this md example is the table of contents :sparkles: 
 
-<!-- ![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png) -->
+Leave a ⭐️ in GitHub, give a clap in Medium and share this README if you found it cool.
+
+![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png)
