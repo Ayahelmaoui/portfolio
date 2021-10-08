@@ -3,11 +3,11 @@ trying to improve my writing skills └(￣-￣└) i followed a guide to make a
 
 ## Screenshots
 
-<img src="screenshot\prt scr.PNG"/>
+<img src="screenshots\prt scr.PNG"/>
 
-<img src="screenshot\prt scr 2.PNG"/>
+<img src="screenshots\prt scr 2.PNG"/>
 
-<img src="screenshot\prt scr 3  .PNG"/>
+<img src="screenshots\prt scr 3.PNG"/>
 
 ## Table of contents
 
