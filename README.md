@@ -11,7 +11,6 @@ trying to improve my writing skills └(￣-￣└) i followed a guide to make a
 
 ## Table of contents
 
-- [portfolio](#portfolio)
 - [Screenshots](#Screenshots)
 - [Table of contents](#table-of-contents)
 - [Development](#development)
