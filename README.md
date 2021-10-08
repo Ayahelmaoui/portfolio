@@ -1,7 +1,7 @@
 # Old portfolio with A GREAT README
 trying to improve my writing skills └(￣-￣└) i followed a guide to make a good README, WELCOME!
 
-## :camera_with_flash: Screenshots  
+##  Screenshots  :camera_with_flash:
 
 <img src="screenshots\prt scr.PNG"/>
 
@@ -9,7 +9,7 @@ trying to improve my writing skills └(￣-￣└) i followed a guide to make a
 
 <img src="screenshots\prt scr 3.PNG"/>
 
-## :placard: Table of contents 
+## Table of contents :placard:
 
 - [Screenshots](#Screenshots)
 - [Table of contents](#table-of-contents)
