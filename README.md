@@ -1,7 +1,7 @@
 # Old portfolio with A GREAT README
 trying to improve my writing skills └(￣-￣└) i followed a guide to make a good README, WELCOME!
 
-##  Screenshots  :camera_with_flash:
+##  Screenshots 
 
 <img src="screenshots\prt scr.PNG"/>
 
@@ -9,7 +9,7 @@ trying to improve my writing skills └(￣-￣└) i followed a guide to make a
 
 <img src="screenshots\prt scr 3.PNG"/>
 
-## Table of contents :placard:
+## Table of contents 
 
 - [Screenshots](#Screenshots)
 - [Table of contents](#table-of-contents)
@@ -20,7 +20,7 @@ trying to improve my writing skills └(￣-￣└) i followed a guide to make a
 - [Footer](#footer)
 
 
-# :screwdriver: Development
+# Development
 [(Back to top)](#table-of-contents)
 
 I'm a total beginner in the web development, this prject is a portfolio template but i made some changements that i'm so proud of ♡( ◡‿◡ ) .
