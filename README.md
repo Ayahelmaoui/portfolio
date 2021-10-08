@@ -1,5 +1,5 @@
 # Old portfolio with A GREAT README
-trying to improve my writing skills xD i followed a guide to make a good README, WELCOME!
+trying to improve my writing skills └(￣-￣└) i followed a guide to make a good README, WELCOME!
 
 ## Screenshots
 
