@@ -36,7 +36,7 @@ Contributions, issues and feature requests are welcome so feel free to modify an
 ## 📝 License
 [(Back to top)](#table-of-contents)
 
-[GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
+![GitHub license](https://img.shields.io/github/license/Ayahelmaoui/portfolio.svg)
 ![Team Open Minds](https://img.shields.io/badge/Members%20of-Team%20Open%20Minds-blue.svg?color=0099CC)
 
 
