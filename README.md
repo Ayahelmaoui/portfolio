@@ -1,14 +1,6 @@
 # Old portfolio with A GREAT README
 trying to improve my writing skills └(￣-￣└) i followed a guide to make a good README, WELCOME!
 
-##  Screenshots 
-
-<img src="screenshots\prt scr.PNG"/>
-
-<img src="screenshots\prt scr 2.PNG"/>
-
-<img src="screenshots\prt scr 3.PNG"/>
-
 ## Table of contents 
 
 - [Screenshots](#Screenshots)
@@ -18,6 +10,15 @@ trying to improve my writing skills └(￣-￣└) i followed a guide to make a
 - [Author](#Author)
 - [License](#license)
 - [Footer](#footer)
+
+
+##  Screenshots 
+
+<img src="screenshots\prt scr.PNG"/>
+
+<img src="screenshots\prt scr 2.PNG"/>
+
+<img src="screenshots\prt scr 3.PNG"/>
 
 
 # Development
