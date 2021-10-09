@@ -47,5 +47,5 @@ Contributions, issues and feature requests are welcome so feel free to modify an
 # Footer
 [(Back to top)](#table-of-contents)
 
-Leave a ⭐️ in GitHub, give a clap in Medium and share this README if you found it cool.
+
 ![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png)
