@@ -8,8 +8,7 @@ trying to improve my writing skills └(￣-￣└) i followed a guide to make a
 - [Contributing](#Contributing)
 - [Author](#Author)
 - [License](#license)
-- [FooterE](#footer)
-
+- [Footer](#footer)
 
 ##  Screenshots 
 
